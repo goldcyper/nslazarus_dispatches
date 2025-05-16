@@ -1,0 +1,246 @@
+[box][center][url=https://nslazarus.com/forum/index.php?form/13/select][img]https://i.imgur.com/b8dtgfk.png[/img][/url]
+[size=180][url=https://nslazarus.com/forum/index.php?form/13/select]Make an application here[/url][/size]
+[/center]
+[quote=Treadwellia;8836845][color=red][b]Mmph mmph. Mmph MMPH hrmph. Hrm hrm. MMPH![/b][/color]
+This important message brought to you by [url=/nation=treadwellia]Tubbius of the Treadwellians[/url].[/quote]
+
+[size=110][b]Contents[/b]
+1. [url=#Map]Lazarus regional map[/url] 
+2. [url=#Claims]Regional map claims[/url]
+3. [url=#Editing]Editing a regional map (Inkscape tutorial)[/url]
+4. [url=#Scaling]Scaling the regional map (ImageJ tutorial)[/url]
+5. [url=#Hosting]Hosting the regional map[/url]
+6. [url=#Development]Maps in development[/url]
+7. [url=#Roadmap]Development roadmap[/url]
+8. [url=#Miscellaneous]Miscellaneous extras[/url]
+9. [url=#Log]Changelog[/url][/size]
+
+[anchor=Map][/anchor][background-block=#c9f3ca][hr][center][size=160][color=2A957F][b]⛯ Lazarus regional map[/b][/color][/size][/center][hr][/background-block]
+
+[size=110][b]View the Regional Map:[/b] [url=https://nslazarus.com/map/]Regional map[/url][/size]
+
+[b]Note:[/b] Nations that cease to exist for 15 days or so are removed from the map to make room for new claims.
+
+[background-block=#c9f3ca][hr][size=120][color=2A957F][b]⛯ Regional map statistics[/b][/color][/size][hr][/background-block]
+
+[b]Regional Map Information Hub (Google Sheet):[/b] [url=https://docs.google.com/spreadsheets/d/e/2PACX-1vQtOqYME-jxwOIaECYxbF__HmEyJv1ncrr9MjKM8MKOXnPvbRB-43Ow4Wp6-7RB97Joa6L7Jbbq5B78/pubhtml?]View Sheet[/url]
+
+The full statistics are in the above Lazarus Regional Information Hub google sheet, which details the borders to land area of each map location.[/box][img]https://i.imgur.com/W9t6o5b.png[/img]
+
+[box][anchor=Claims][/anchor][background-block=#c9f3ca][hr][size=120][color=2A957F][b]⛯ Regional map claims[/b][/color][/size][hr][/background-block]
+
+[b]Check the claimed spots below (if it is already taken the number will be in [color=red]red[/color]):[/b] 
+
+[spoiler=View Claim Map][center][url=https://nslazarus.com/map/]Claim map[/url][/center][/spoiler]
+
+[b]Map Claim rules:[/b]
+
+[list][*]Non-WA nation claims are not permitted outright, as they require verification to prevent puppet spam on the map.
+[*]Since there have been several queries over puppet claims. Obviously puppet claims are not allowed, as it denies a place for other players on the map.
+[*]This is meant as a map to include as many players as possible, which is going to be an impossible task if everyone adds their puppets. RP wise, I could technically claim three nation spots, now multiply that by 10-20+ players and you get the picture. There won't be enough room.
+[*]There is nothing stopping someone making their own nation map out of their claim that includes their puppets for RP purposes.[/list]
+
+[size=120][b]Making a map claim application[/b][/size]
+
+[size=120]You can make a claim using the following form: [url=https://nslazarus.com/forum/index.php?form/13/select]Regional map claim form[/url][/size]
+
+Having a forum account for using this form is optional but recommended.[/box][img]https://i.imgur.com/W9t6o5b.png[/img]
+
+[box][anchor=Editing][/anchor][background-block=#c9f3ca][hr][size=120][color=2A957F][b]⛯ Editing a regional map (Inkscape tutorial)[/b][/color][/size][hr][/background-block]
+
+[size=120]This is a tutorial for using Inkscape to edit a regional map, and what is shown isn't necessarily what you might use but is here for tutorial purposes.[/size]
+
+[b]Inkscape Map File: [/b][url=https://www.dropbox.com/s/yerzrmlvs7inb9x/lazarus-map-02-16-23.svg?dl=0]Download here from Dropbox[/url]
+
+Inkscape allows the editing of SVG files for free on multiple platforms. Editing this file in other programs however risks breaking compatibility. 
+
+[b]Requirements:[/b]
+[list][*][i]Inkscape:[url=https://inkscape.org/]https://inkscape.org/[/url][/i]
+[*][i]Knowledge of how to use the objects, text, and color functions of Inkscape.[/i]
+[*][i]The latest SVG file of the regional map, which is near the top of the page under the SVG regional map image, shown as a [url=https://www.dropbox.com/s/yerzrmlvs7inb9x/lazarus-map-02-16-23.svg?dl=0]download link[/url].[/i][/list]
+
+[b]Regional Map Contents:[/b]
+[list][*][i]Regional map layer,[/i]
+[*][i]States layer,[/i]
+[*][i]South/North pole layers[/i][/list]
+
+When you open the SVG file in Inkscape, you will need to click on Object -> Objects, to view the map areas.
+
+The states layer contains the land masses, which are labeled by state ID, though Inkscape can break formatting.
+
+The south and north pole layers are a placeholder for now, and they might be re-developed at some point to be a bit better looking.
+
+[b]Note:[/b] Inkscape is very easy to make a mistake in. So save often so that if you accidently move any objects (as often you can accidently move the map by mistake) you don't have to go back and lose your work.
+
+[b]Step by Step Guide to Inkscape[/b]
+
+[b]Step 1:[/b] If you haven't downloaded [i][url=https://inkscape.org/]Inkscape[/url][/i], do so now. 
+
+[b]Step 2:[/b] Open Inkscape, then open the svg map file, which is ideally named by date (DD:MM:YY) so they can kept track of (especially if a nation CTEs and needs to be put back in), so LazMaps are called by names like lazarus-map-7-28-22.svg.
+
+[b]Step 3: Editing objects[/b]
+
+Depending on how your Inkscape is set up, you might see the objects or not, as mentioned in the contents there are three main objects, the blank regional map, the states (nation spots), State-Names, and the South/North pole layers. Click on objects on the top menu, and you will see the Regional-Map object group, click on the + symbol box to expand to the rest of the group. 
+
+Make sure to explore all the objects, and click Edit -> Undo, on the top menu, if you accidently move things, which will be shown by a * appearing by the name of the file, such as: *lazarus-map-7-18-22.svg.
+
+[b]Note:[/b] You will also want to expand the objects pane downwards so you can view all the object groups. If you move your mouse cursor to the line underneath Opacity, a cursor will appear, and you can then click to move it up for down.
+
+After you have explored the object groups, you will notice that each State, such as State-1 has a path within its object group such as path4240. The path is what you edit to change the color of a spot. 
+
+You will also notice that State-Name objects have the name of the nation, such as Glowing Diamonds, and within that group a text object such as text4361-6. The text object is what you want to edit, and do so you would click on the object, then click Text -> Text and Font, on the top menu:
+
+[img]https://i.imgur.com/UaZnRcL.png[/img]
+
+If you want to edit the text, you would click the Text tab to the right of Font, which will then open up a text box area with Apply and Close buttons. In this case, Glowing Diamonds is on two lines, so that is how it will appear on the map. Clicking Apply saves the changes. 
+
+This will not edit the color however, to edit the text color you must click on the text object again, such as text4361-6. Then you will see at the bottom of the screen a Fill box showing what color the text is, in this case it is black. Click on the fill area, and it will bring up the Fill and Stroke Menu, which is also accessible through Fill and Stroke under Objects in the top menu. 
+
+[img]https://i.imgur.com/fjd3tdM.png[/img]
+
+In the Fill and Stroke area, you can see Flat color, which allows you to choose from RGB, HSL, CMYK, a color wheel and CMS. Then there is a RGBA box where you can type in hex colors. RGBA stands for red green blue alpha. In most cases you will not be using the alpha part, if you select a non-transparent color. 
+
+[img]https://i.imgur.com/nZQAHjm.png[/img]
+
+As you can see this text is now white as I typed in or selected the color white. This has a RGBA value of ffff ffff. If using a normal hex it would be #ff ffff. If you don't add an extra character or two, then the color won't show as intended. Be aware of this when editing colors in Inkscape.
+
+[img]https://i.imgur.com/fZNJUQM.png[/img]
+[i]Incorrect hex code input example[/i]
+
+With these basics down, you likely want to know how to add new text, or alter existing text. Such as you want to name your nation something different for a RP or to add a new nation to the map. In Inkscape it is often easier to just copy text near where you want to add a new claim. 
+
+[b]Step 4: Adding a new claim.[/b]
+
+Looking at the map maybe I decide that State-150 is where I want to place a new claim. So I click on it, or find and click on it in the objects tab:
+
+[img]https://i.imgur.com/iANqw9f.png[/img]
+
+Applying what was learned so far, I click on the path3800 object, which controls the color of this state, and I decide I want it to be green, and so I select green. This is first stage done, I have colored my nation claim. But it has no name yet of course.
+
+To name it, I scroll up the objects tab till I find a text nearby to copy. In this case, Dernel will do, so I click on it, then copy it. I can do so with the top menu, selecting Edit -> Copy, then Edit -> Paste.
+
+It will then paste near Dernel. But I don't want it there. So I move it to where the new nation claim is to be, with it still named what it was, in this case Dernel. I can double click on the Label to change it, so in this case I double-click on Dernel and rename it Testlandia, the name of the nation I wish to add. This is so that I know that this text object relates to Testlandia.
+
+Now I need to actually name it on the text object, so I expand the group and click on text4375-5, and using what was learned so far, I click Text on the top menu, then Text and Font, and type in the new name Testlandia in the Text tab. But when I do so I realize it is too big, and the white text can't be seen on the background, yuck. 
+
+So to fix this I change the color to black, then carefully holding down my cursor over the object, I move it place so it is slightly further to the left.
+
+[img]https://i.imgur.com/d9sVEkK.png[/img]
+
+Now I am done, and I can save the file at the top menu with File -> Save.
+
+[img]https://i.imgur.com/TJShCws.png[/img]
+
+[b]Step 5: Export[/b]
+
+Exporting in Inkscape is determined by what you have selected, so if you wanted to export the whole map you would want to click off the map. But if you wanted to export a specific nation spot, you'd want to select it.
+
+Let's say I want to select Testlandia, and export it. I click on Testlandia or State-150 to be precise, and then on the top menu I click File -> Export PNG Image:
+
+[img]https://i.imgur.com/1Hz04ti.png[/img]
+
+This then opens the Export PNG Image menu, with the following main options:
+[list][*]Image Size: Width, Height, DPI,
+[*]Export As: Set file name to export as,
+[*]Hide all except selected: To export only that nation.[/list]
+
+In this case I might want to select only the nation area, so I select Hide all except selected (as I don't want the nation text over the image), then I click export, and this file will then appear on the desktop.
+
+But after exporting I realize it is too small, and I want it big enough to really play with, so I alter the width to 1200 pixels, then export:
+
+[img]https://i.imgur.com/B6X3BKw.png[/img]
+
+This is the end of a basic Inkscape map tutorial. If you have any further questions send me a telegram at [nation=noflag]New Rogernomics[/nation] or DM me on the Lazarus Discord.[/box][img]https://i.imgur.com/W9t6o5b.png[/img] 
+
+[box][anchor=Scaling][/anchor][background-block=#c9f3ca][hr][size=120][color=2A957F][b]⛯ Scaling the Regional Map (ImageJ tutorial)[/b][/color][/size][hr][/background-block]
+
+To scale the regional map we use a program called ImageJ, which auto-scales images by scales you set. 
+
+In order to do this a PNG file is used, which has no nation labels, and only flat areas to measure. 
+
+[b]Requirements:[/b]
+[list][*][i]ImageJ, which is downloadable here: [url=https://imagej.nih.gov/ij/download.html]https://imagej.nih.gov/ij/download.html[/url][/i]
+[i][*]Java, if not already installed, is downloadable here: [url=https://www.java.com/en/download/]https://www.java.com/en/download/[/url][/i]
+[i][*]The scaling map to be opened in ImageJ, which is downloadable here: [url=https://i.imgur.com/xaIUYqw.png]https://i.imgur.com/xaIUYqw.png[/url][/i][/list]
+
+[b]Using ImageJ:[/b]
+[img]https://i.imgur.com/q3K38kO.png[/img]
+
+1. Once you have unzipped the ImageJ download and opened ImageJ, you will need to open the scaling map you downloaded from imgur.
+2. Next on the menu bar of Image J, you will need to click Analyze -> Set Measurements, and make sure that Area and Perimeter are ticked. This is shown in the image screenshot above.
+3. Next on the menu bar of ImageJ, there is a fifth button labeled /, or Straight, which you will need to click on and select any blank sea area of the map.
+4. Next you will need to click Analyze -> Set Scale, from the menu bar, which will open up the scaling area. 
+
+[b]The scale for the map is as follows:[/b]
+Distance in Pixels: 0.07
+Known Distance: 1.00
+Pixel Aspect Ratio: 1.0
+(Optional) Unit: miles
+
+[b]Note:[/b] Scale would verify depending on the pixel size of the map, the larger the map the greater distance in pixels would be, and vice versa.
+
+Here is a reference scale for existing nations in the world and their land areas: [url=https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area]https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_area[/url]
+
+5. Select the Wand tool, or the eighth button, and select the land mass you want to measure. 
+6. Click Analyze -> Measure from the menu bar, which will then calculate the square area and the perimeter/border. 
+7. The Results window will open, and you can either select this data and copy/paste it somewhere or go file -> save as, and save it as a csv file.
+
+[b]Then you are done! Hope this was useful.[/b][/box][img]https://i.imgur.com/W9t6o5b.png[/img]
+
+[box][anchor=Hosting][/anchor][background-block=#c9f3ca][hr][size=110][color=2A957F][b]⛯ Hosting the Regional Map[/b][/color][/size][hr][/background-block]
+
+If you are interested in hosting your own regional map on github or your own web hosting visit my github project here: [url=https://github.com/goldcyper/ns-map-project/]https://github.com/goldcyper/ns-map-project/[/url]
+
+[img]https://raw.githubusercontent.com/goldcyper/ns-map-project/refs/heads/main/readme/map-example.png[/img]
+
+You can view an example site here: [url=https://goldcyper.github.io/ns-map-project/]https://goldcyper.github.io/ns-map-project/[/url]
+
+[/box][img]https://i.imgur.com/W9t6o5b.png[/img]
+
+
+[box][anchor=Development][/anchor][background-block=#c9f3ca][hr][size=110][color=2A957F][b]⛯ Maps in development[/b][/color][/size][hr][/background-block]
+
+[spoiler=Flat Map][img]https://i.imgur.com/9Jghqwy.png[/img][/spoiler]
+
+[spoiler=Projection Map]TBA[/spoiler]
+
+[spoiler=Globe Map]TBA[/spoiler]
+
+[anchor=Roadmap][/anchor][background-block=#c9f3ca][hr][size=110][color=2A957F][b]⛯ Development roadmap[/b][/color][/size][hr][/background-block]
+
+This map is to be used to allow nations to claim a space for their nation.
+
+[b]Stage One:[/b] [list][*]Reach at least 20 nations on the map, ✔
+[*]Make it conform to [b][url=https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Maps/Conventions]Wikipedia map conventions[/url][/b], ✔
+[*]Downloadable map can be used to make a nation map, and surrounding nations. ✔
+[*]Generate statistics for all map locations. ✔
+[/list]
+
+[b]Stage Two:[/b] [list][*]Make a globe map of the regional map,
+[*]Create specific orientations of the globe for each nation location for Factbook use,
+[/list]
+
+[b]Stage Three:[/b] [list][*]Create a template map style for use based off the [b][url=https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Maps/Conventions]Wikipedia map conventions[/url][/b],
+[*]Start requesting the location of major roads and rivers between each nation position or randomly generating where required,
+[/list]
+
+[b]Stage Four:[/b] [list][*]Complete the three map styles i.e. wikipedia style general map, wikipedia style globe map, and wikipedia style centered globe map for each nation position,
+[*]Create a directory of nation maps i.e. that nations have completed themselves based off the templates.
+[/list]
+
+[size=110]If you have a question, send a telegram or Discord DM to [b][nation]New Rogernomics[/nation][/b][/size]
+
+[anchor=Miscellaneous][/anchor][background-block=#c9f3ca][hr][size=110][color=2A957F][b]⛯ Miscellaneous extras[/b][/color][/size][hr][/background-block]
+
+[b]You can play with map projections here using the NASA projection map generator[/b]: [url=https://www.giss.nasa.gov/tools/gprojector/]https://www.giss.nasa.gov/tools/gprojector/[/url]
+
+It is also recommended to use [b][url=https://azgaar.github.io/Fantasy-Map-Generator/]The Fantasy Map Generator by Azgaar[/url][/b] for map generation due to its extensive settings and options.
+
+[anchor=Log][/anchor][background-block=#c9f3ca][hr][size=110][color=2A957F][b]⛯ Changelog[/b][/color][/size][hr][/background-block]
+
+[spoiler]10/17/2024: Added github hosting entry[/spoiler][/box]
+
+[center][background-block=#008A29][color=#008A29]-[/color][/background-block]
+[background-block=#008A29][size=130][color=white][b]Brought you by the Lazarus region at[/b][/color] [url=https://nslazarus.com/forum/index.php][color=white]NSLazarus.com[/color][/size]
+[img]https://nslazarus.com/forum/styles/custom/lazarene/lazlogosm.png[/img][/url][/background-block]
+[background-block=#008A29][color=#008A29]-[/color][/background-block][/center]
