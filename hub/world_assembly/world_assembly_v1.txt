@@ -1,0 +1,141 @@
+center][url=/region=lazarus][img]https://i.imgur.com/AtoADBK.png[/img][/url]
+[size=180][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vQtOqYME-jxwOIaECYxbF__HmEyJv1ncrr9MjKM8MKOXnPvbRB-43Ow4Wp6-7RB97Joa6L7Jbbq5B78/pubhtml?]View LAZWAP Recommendations[/url][/size]
+[/center]
+[quote=Treadwellia;8836845][color=red][b]Mmph mmph. Mmph MMPH hrmph. Hrm hrm. MMPH![/b][/color]
+This important message brought to you by [url=/nation=treadwellia]Tubbius of the Treadwellians[/url].[/quote]
+[box][sidebar][img]https://media.giphy.com/media/ZdO4P32UtAC5AB2rWU/giphy-downsized-large.gif[/img]
+[center][i]Consider voting on World Assembly resolutions[/i][/center][/sidebar][size=110][b]Contents[/b]
+1. [url=#Join]How to Join the World Assembly[/url]
+2. [url=#GA]General Assembly Resolutions[/url]
+3. [url=#SC]Security Council Resolutions[/url]
+4. [url=#Opinions]Opinions against the World Assembly[/url]
+5. [url=#Vote]World Assembly voting form[/url]
+6. [url=#Cabinet]Cabinet policy and R/D neutrality[/url]
+7. [url=#WAVA]World Assembly Voting Act[/url]
+8. [url=#Recommend]Recommendation History[/url][/size]
+
+[size=110]If you are here, then you're curious about how World Assembly affairs are run in [region]Lazarus[/region]. It is fairly straight-forward, we use multiple metrics for determining how [region]Lazarus[/region] votes for General Assembly and Security Council resolutions. The first metric is how world assembly nations and citizens of [region]Lazarus[/region] view a resolution, the second metric is how World Assembly nations are voting, and the final metric is how a resolution might be viewed by the inter-regional community and prominent World Assembly members.
+
+The [region]Lazarus[/region] World Assembly program is a recent initiative. [b]You can read how to vote here:[/b] [url=#Vote]Voting Form[/url]
+
+[anchor=Join][/anchor][b]1. How to Join the World Assembly[/b]
+
+Join the World Assembly here: [url=https://www.nationstates.net/page=un]World Assembly page[/url] 
+
+More information on the World Assembly is in the [url=https://www.nationstates.net/page=faq#WA]Nationstates FAQ[/url]:
+
+[quote=Laz;8836845][b]What's the World Assembly?[/b]
+
+The [url=https://www.nationstates.net/page=un]World Assembly[/url] is the world's governing body. It's your chance to mold the world to your vision, by voting for resolutions you like and scuttling the rest. However, it's a double-edged sword, because your nation will be affected by any resolutions that pass. (Unfortunately you can't obey the resolutions you like and ignore the rest.) In other words, it's a hot-bed of political intrigue and double-dealing.
+
+Your nation can join the WA, but it's not compulsory. If you remain outside, you're unaffected by its decisions. If you're ready to mix it up in international politics, though, the WA is for you.
+
+There are two main benefits to WA membership: you can vote on resolutions, and you can give and receive endorsements to and from other nations in your region, which determines who is Delegate.
+
+[...] [b]I have more than one nation. Can they all join the WA?[/b]
+
+No. While you can have as many nations as you like, only one may be a World Assembly member at a time.[/quote]
+
+You need to receive a verification email for the email on your nation, which should occur within 24 hours, and then you're in and can start voting on resolutions in-game. 
+
+[anchor=GA][/anchor][b]2. General Assembly Resolutions[/b]
+
+Important links: 
+[list][*][i][url=https://forum.nationstates.net/viewtopic.php?f=9&t=159348]GA Proposal Compendium: Rules & General Advice[/url][/i]
+[*][i][url=https://forum.nationstates.net/viewtopic.php?f=9&t=463504]Ideas for General Assembly Proposals[/url][/i]
+[*][i][url=https://forum.nationstates.net/viewtopic.php?f=9&t=401599]Rules and Procedures of the GA Secretariat[/url][/i][/list]
+
+General Assembly resolutions normally don't have foreign policy implications and are largely focused on issues facing individual nations. Normally this would be a straightforward decision, with the First Citizen (or PM) and Minister in charge of World Assembly affairs making a recommendation. Still, it is very important to let your opinion heard via telegram or on our discord server, as maybe the resolution going through the General Assembly is going to have terrible consequences for your nation, or you just can't stand the WA, and want us to vote against. Whatever your reasoning, best to let us know. 
+
+[anchor=SC][/anchor][b]3. Security Council Resolutions[/b]
+
+Important links: 
+[list][*][i][url=https://forum.nationstates.net/viewtopic.php?f=24&t=8809]Security Council Proposal Rules[/url][/i]
+[*][i][url=https://forum.nationstates.net/viewtopic.php?f=24&t=402817]Ideas for SC Resolutions[/url][/i]
+[*][i][url=https://forum.nationstates.net/viewtopic.php?f=24&t=409053]SC Questions & Answers[/url][/i][/list]
+
+Security Council resolutions can have foreign policy implications, especially if it pertains to liberations of regions and condemnations, though a lot can be harmless commendations of gameplayers, World Assembly participants, and so on. It is very likely that on this sort of resolution that the First Citizen, Foreign Minister, and Minister in charge of World Assembly affairs will weigh into these sorts of resolutions - as they can impact our relationship with other regions. So, it is entirely possible (though rare) for Security Council resolutions that the final decision might be to abstain or vote for/against the general vote in the region. This is why it is very important to let your opinion heard via telegram or on our discord server. 
+
+[anchor=Opinions][/anchor][b]4. Opinions against the World Assembly[/b]
+
+[quote=Nevadar;2980939]The colossal fireball of extra-dimensional inanity was a formal email from the real world United Nations delivered to the game founder telling him to stop using the UN name and symbol, hence it was destroyed in game and replaced with the World Assembly. Clearly, Gatesvillians infiltrated the real world UN. :P[/quote]
+
+[quote=Gates the god;2833077][...]The largest player-created region in the MMO political simulation game NationStates for the last several years, Gatesville was co-founded by the nations of "Gates the god" and "Rose-Colored Glasses." While Gates remains, RCG has since moved on. Gatesville is known for its staunch pro-national sovereignty policy which is most often expressed as opposition to the NationStates United Nations.[/quote]
+
+What the actual UN thinks...well, [url=https://maxbarry.com/2008/04/02/news.html]they did make Max Barry change the name[/url]. Apparently their support for the model UN ends at online gaming. 
+
+As for my opinion, I've left the World Assembly at times on principle (and respect those who do) because of GA resolution I've disagreed with, but I've also been a Delegate of a user created region, and then of [region]Lazarus[/region], so I'm clearly fine with it.
+
+[anchor=Vote][/anchor][b]5. World Assembly voting form[/b]
+
+You can vote via telegram by sending a telegram to [nation]New Rogernomics[/nation] or vote on our [b][url=//discordapp.com/invite/e3m4fdM][color=5865F2]Discord server[/color][/url][/b] in the WA votes channel. 
+
+World Assembly nations and citizens of [region]Lazarus[/region] may vote for SC/GA resolution with the following form: 
+[quote=Laz;8836845]Nation:
+GA/SC proposal/resolution:
+Vote (Aye/Nay/Abstain):[/quote]
+
+Votes by non-WA nations will be discarded unless they are citizens of [region]Lazarus[/region].
+
+[b]Note:[/b] Citizenship must be applied for non-WA nations to vote. Do so on our forum here: [url=https://nslazarus.com/]Lazarus forum[/url][/size]
+
+[anchor=Cabinet][/anchor][b]6. Cabinet policy and R/D neutrality[/b]
+
+While the usual policy of World Assembly voting is to take what you telegram in and what you vote in-game into account when Treadwellia casts their vote on behalf of the region, there is an exception to this when it comes to cabinet policy or R/D (or raiding and defending) neutrality. You will see these both referred to in the google document we use to keep a record of past recommendations to the Delegate.
+
+[list][*][b]Cabinet policy (or CP)[/b] is what the First Citizen (or PM) of Lazarus sets as their position against or for a specific nation, region, or organization, or if a World Assembly vote may imperil or hurt our foreign relations with our friendly or allied regions. This may mean that the Delegate is advised to vote against, for, or abstain on a World Assembly vote. This can result sometimes in an unfortunate situation like the majority of World Assembly nations voting one way and the Delegate another. 
+[*][b]Raiding and Defending (or R/D)[/b] related resolution policy is generally the decision up to the government of time, and without a specific policy in these situations Lazarus will likely either abstain or follow the vote of the region.[/list][/box]
+
+[box][anchor=WAVA][/anchor][size=120][b]7. World Assembly Voting Act (September 2023)[/b][/size]
+
+[size=120]This act explains the process for World Assembly votes by the Delegate in Lazarus:[/size]
+
+[spoiler=Click to View][center][size=120][b]World Assembly Voting Act (September 2023)[/b][/size]
+
+[size=120][b]Proposed by:[/b] @New Rogernomics[/center][/size]
+
+[b]Preamble[/b]
+
+This law will establish how World Assembly resolutions are recommended to the Delegate of Lazarus.
+
+[b]Section 1. World Assembly recommendations to the Delegate[/b]
+
+(1) The Delegate may not be compelled to vote for or against a World Assembly resolution but may be offered recommendations in how to vote. 
+
+(2) The Vice Delegate may offer recommendations to the Delegate:
+a. If the Prime Minister or their designated minister or deputy minister has not made a recommendation.
+b. During a regional election or the interim between Prime Ministerial terms. 
+c. In order to notify the Delegate of a resolution at vote or upcoming proposal. 
+
+[b]Section 2. The regional vote[/b]
+
+(1) Prior to or during a World Assembly resolution being at vote:
+a. Residents of Lazarus may post how they intend to vote on a current or upcoming World Assembly resolution on the regional forum or discord server.
+b. The Prime Minister or their designated minister or deputy minister may provide their recommendation to the Delegate.
+c. The Vice Delegate may provide their recommendation to the Delegate. 
+
+(2) The Prime Minister's recommendation shall take priority as is the prerogative of cabinet to set the foreign and world assembly policy of Lazarus.
+
+(3) In lieu of a recommendation the default recommendation shall be to vote according to the majority vote in the region by World Assembly nations or to abstain:
+a. The Prime Minister or their designated minister or deputy minister may recommend to the Delegate to follow the majority vote in the region. 
+b. The Vice Delegate may recommend to the Delegate to follow the majority vote in the region. 
+
+[b]Section 3. Exceptions to World Assembly recommendations[/b]
+
+(1) If a law, treaty, or resolution, passed by the Assembly requires a recommendation to be given to the Delegate on world assembly resolutions proposed by a specific nation, region, or organization.
+
+(2) If the Prime Minister or their designated minister or deputy minister has set a regional policy on recommendations on world assembly resolutions proposed by a specific nation, region, or organization.[/spoiler]
+
+[/box]
+
+[box][anchor=Recommend][/anchor][size=120][b]8. Recommendation History[/b][/size]
+
+[size=120][url=https://docs.google.com/spreadsheets/d/e/2PACX-1vQtOqYME-jxwOIaECYxbF__HmEyJv1ncrr9MjKM8MKOXnPvbRB-43Ow4Wp6-7RB97Joa6L7Jbbq5B78/pubhtml?]View past/current LAZWAP Recommendations[/url][/size][/box]
+
+[anchor=GA][/anchor][size=120][b]Regional Message Board Bot Notification List[/b][/size]
+
+This is a list of nations that will be notified of World Assembly resolutions daily, usually at 1 PM EDT / 5:00 PM UTC.
+
+[b]To be added to the list contact [nation]New Rogernomics[/nation].[/b]
+
+Nations: treadwellia, new_rogernomics, domais
