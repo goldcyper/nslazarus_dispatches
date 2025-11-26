@@ -4,8 +4,6 @@
 [/background-block][anchor=Involved][/anchor] 
 [background-block=#000000][center][img]https://i.imgur.com/yrB7gqf.png[/img]
 
-[img]https://i.imgur.com/tsbz9Ui.png[/img]
-
 [size=250][tab=5][/tab][font=Berlin Sans FB][color=white]WELCOME TO LAZARUS![/color][/font][/size]
 [tab=5][/tab]
 [size=200][tab=5][/tab][font=Berlin Sans FB][color=white]The name of the region likely refers to the Bible passage where St. Lazarus is raised from the dead.[/color][/font][/size]
